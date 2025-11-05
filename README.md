@@ -9,7 +9,11 @@ Segundo Parcial Hualpa – Programación I – Jerónimo Coronel - Nicolas Bohm 
 Este proyecto implementa un sistema completo de gestión de videojuegos utilizando **Python**.
 Los datos se almacenan en una estructura **jerárquica de carpetas y archivos CSV**, representando plataformas y categorías.
 Incluye manejo de archivos, recursividad, validaciones, excepciones y guardado condicional.
+---
 
+## Video explicativo
+
+https://drive.google.com/file/d/1f7394GZ-3-GlCiCEeMjpCs3Zg03SrQ6-/view?usp=sharing
 ---
 
 ##  Estructura jerárquica
